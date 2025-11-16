@@ -1,0 +1,4 @@
+faiss-cpu==1.7.4          # or faiss-gpu if you have CUDA
+sentence-transformers==2.2.2
+numpy>=1.23
+openai>=0.27.0            # optional (for OpenAI embeddings + Chat)
